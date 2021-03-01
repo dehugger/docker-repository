@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <TemplateURL>https://raw.github.com/dehugger/docker-repository/serverstatsapi.xml</TemplateURL>
+  <Beta>True</Beta>
+  <Category>Other</Category>
+  <Name>ServerStats Rest API</Name>
+  <Description>
+  Runs a flask_restful api for accessing server stats.
+  </Description>
+  <Overview>
+  </Overview>
+  <Support></Support>
+  <Registry>https://hub.docker.com/r/dehugger/unraid-repo</Registry>
+  <GitHub>https://github.com/dehugger/GitHub>
+  <Repository>dehugger/docker-repository</Repository>
+  <Project>https://github.com/dehugger</Project>
+</Containers>
