@@ -10,8 +10,8 @@
   <Overview>
   </Overview>
   <Support></Support>
-  <Registry>https://hub.docker.com/r/dehugger/unraid-repo</Registry>
+  <Registry>https://hub.docker.com/r/dehugger/serverstatsapi</Registry>
   <GitHub>https://github.com/dehugger/GitHub>
-  <Repository>dehugger/docker-repository</Repository>
+  <Repository>dehugger/serverstatsapi</Repository>
   <Project>https://github.com/dehugger</Project>
 </Containers>
