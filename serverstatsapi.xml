@@ -34,5 +34,5 @@
     </Volume>
   </Data>
   <WebUI>http://[IP]:[PORT:9651]/</WebUI>
-  <Icon>https://raw.githubusercontent.com/dehugger/unraid-serverstatsapi/icon.png</Icon>
+  <Icon>https://raw.githubusercontent.com/dehugger/unraid-serverstatsapi/main/icon.png</Icon>
 </Containers>
